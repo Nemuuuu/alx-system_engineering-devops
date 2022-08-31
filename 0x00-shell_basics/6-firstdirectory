@@ -1,2 +1,2 @@
-#!/bin/bash
-mktemp -d
+#!/bin/bas
+mkdir my_first_directory
