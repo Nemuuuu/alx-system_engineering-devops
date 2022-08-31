@@ -1,1 +1,2 @@
-mktemp
+#!/bin/bash
+mktemp -d
